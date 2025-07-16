@@ -129,21 +129,21 @@ const featureModules = [
 const testimonials = [
     {
         quote: "Synergy HR has completely transformed our HR operations. The AI-powered features for hiring and skills analysis are game-changers. We're more efficient and data-driven than ever before.",
-        name: "Sarah Chen",
+        name: "Priyanshi Sharma",
         title: "VP of People, Innovate Corp",
-        avatar: "https://placehold.co/100x100.png"
+        avatar: "https://dev.inktagon.com/fileupload/hrms-synergy-react-ui/testimonial-1.png"
     },
     {
         quote: "The leave management and attendance tracking modules are incredibly intuitive. It has saved our managers countless hours and empowered our employees with self-service options.",
-        name: "Michael Rodriguez",
-        title: "HR Director, Tech Solutions Inc.",
-        avatar: "https://placehold.co/100x100.png"
+        name: "Robin Pal",
+        title: "HR at Qortechno .",
+        avatar: "https://dev.inktagon.com/fileupload/hrms-synergy-react-ui/testimonial-2.png"
     },
     {
         quote: "As a fast-growing startup, we needed a scalable HR platform. Synergy HR provided an all-in-one solution that grew with us. The dashboard gives us the insights we need at a glance.",
-        name: "Emily White",
-        title: "CEO, QuantumLeap",
-        avatar: "https://placehold.co/100x100.png"
+        name: "Edward William",
+        title: "CEO, BIZ World",
+        avatar: "https://dev.inktagon.com/fileupload/hrms-synergy-react-ui/testimonial-3.png"
     }
 ]
 
@@ -190,7 +190,7 @@ export default function LandingPage() {
             </div>
             <div className="mt-12">
               <Image
-                src="https://placehold.co/1200x600.png"
+                src="https://dev.inktagon.com/fileupload/hrms-synergy-react-ui/hrms-react-ui.png"
                 alt="Synergy HR Dashboard"
                 width={1200}
                 height={600}
@@ -322,7 +322,7 @@ export default function LandingPage() {
                 <span className="font-bold">Synergy HR</span>
             </div>
             <p className="text-sm text-muted-foreground mt-4 md:mt-0">
-              © {new Date().getFullYear()} Synergy HR, Inc. All rights reserved.
+              © {new Date().getFullYear()} Synergy HR, Inc. All rights reserved. | Powered By inktagon.com
             </p>
              <div className="flex gap-4 mt-4 md:mt-0">
                 <a href="#" className="text-sm text-muted-foreground hover:text-primary">Privacy Policy</a>

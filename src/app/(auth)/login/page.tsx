@@ -71,7 +71,7 @@ export default function LoginPage() {
       </div>
       <div className="hidden bg-muted lg:block">
         <Image
-          src="https://placehold.co/1920x1080.png"
+          src="https://dev.inktagon.com/fileupload/hrms-synergy-react-ui/loginauth-hrms.jpg"
           alt="Office Image"
           width="1920"
           height="1080"
